@@ -10,4 +10,5 @@ if num > 1:
     else:
         print(num, "this is a Prime ")
 else:
-    print(num, "this is not a Prime")
+    print(num, "this is not a Primeee")
+
